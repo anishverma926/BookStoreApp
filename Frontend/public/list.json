@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/premium-photo/stack-colorful-books-with-different-colors-them_583952-80587.jpg?w=740"
+    },
+    {
+        "id":2,
+        "name":"Story Book",
+        "title":"lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/premium-photo/stack-colorful-books-with-different-colors-them_583952-80587.jpg?w=740"
+    },
+
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/premium-photo/stack-colorful-books-with-different-colors-them_583952-80587.jpg?w=740"
+    },
+
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/premium-photo/stack-colorful-books-with-different-colors-them_583952-80587.jpg?w=740"
+    },
+
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/premium-photo/stack-colorful-books-with-different-colors-them_583952-80587.jpg?w=740"
+    },
+
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/premium-photo/stack-colorful-books-with-different-colors-them_583952-80587.jpg?w=740"
+    },
+
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/premium-photo/stack-colorful-books-with-different-colors-them_583952-80587.jpg?w=740"
+    },
+
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/premium-photo/stack-colorful-books-with-different-colors-them_583952-80587.jpg?w=740"
+    }
+]
